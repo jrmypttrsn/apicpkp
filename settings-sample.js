@@ -23,7 +23,7 @@ export default class Settings {
     this.STATEFUL_CREDENTIALS_FILE = './libretaxi-development-credentials.json';
 
     // Telegram token
-    this.TELEGRAM_TOKEN = '';
+    this.TELEGRAM_TOKEN = '437361422:AAGCk7r-L_X8wH5BxM2mQEl9SeCEsgcUvUg';
 
     // default language
     this.DEFAULT_LANGUAGE = 'en';
@@ -36,7 +36,7 @@ export default class Settings {
 
     // geocoding api key, see
     // https://developers.google.com/maps/documentation/geocoding/intro
-    this.GEOCODING_API_KEY = '';
+    this.GEOCODING_API_KEY = ' AIzaSyDt-e2d00t9JeRBTeTo9EXuN3Mfg2CXsmw ';
 
     Object.assign(this, overrides);
   }
